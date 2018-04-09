@@ -14,7 +14,7 @@
   ...
   ```
   When you `make`, the Makefile call the rule `.user-config.yml` only if the file
-   does not exist, that mean you can exec multiple `make` and that not create the file again.
+   does not exist, that mean you can exec multiple `make` and that's not going to create the file again.
 
   ![ttygif example](https://media.giphy.com/media/8UGoKUvkDQDmFB6GeA/giphy.gif)
 
